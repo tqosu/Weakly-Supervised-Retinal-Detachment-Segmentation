@@ -1,0 +1,2 @@
+# README
+This repository implements the paper "Weakly Supervised Retinal Detachment Segmentation Using Deep Feature Propagation Learning in SD-OCT Images". The data is unfortunately not publicly available.
